@@ -18,16 +18,11 @@ Tenho interesse especial em **Inteligência Artificial**, desenvolvimento web e 
 
 Atualmente estou em busca de uma **oportunidade de estágio em TI** para crescer dentro da área.
 
-```js
-const itallo = {
-  idade: 19,
-  curso: "Análise e Desenvolvimento de Sistemas",
-  faculdade: "UNICESUSC — Florianópolis, SC",
-  foco: ["Desenvolvimento Web", "Inteligência Artificial", "Backend"],
-  buscando: "Estágio em TI",
-  aprendizado: "hands-on > teoria",
-};
-```
+- 🎂 19 anos
+- 📚 Análise e Desenvolvimento de Sistemas — UNICESUSC, Florianópolis, SC
+- 🎯 Foco em Desenvolvimento Web, Inteligência Artificial e Backend
+- 🔍 Buscando estágio em TI
+- 💡 Aprendo muito mais na prática do que na teoria
 
 ---
 
@@ -89,17 +84,6 @@ const itallo = {
 - 💡 Desenvolvimento de projetos autorais com foco em IA e automação
 - 📊 Apresentações técnicas — incluindo projeto de sustentabilidade *"Energia Inteligente"* com cálculos físicos e propostas reais de redução de consumo elétrico
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itallolugon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itallolugon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
 
 ---
 
