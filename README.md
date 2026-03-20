@@ -1,14 +1,3 @@
-<div align="center">
-
-```
-██╗████████╗ █████╗ ██╗     ██╗      ██████╗
-██║╚══██╔══╝██╔══██╗██║     ██║     ██╔═══██╗
-██║   ██║   ███████║██║     ██║     ██║   ██║
-██║   ██║   ██╔══██║██║     ██║     ██║   ██║
-██║   ██║   ██║  ██║███████╗███████╗╚██████╔╝
-╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
-```
-
 ### `< Desenvolvedor em formação · Apaixonado por tecnologia & IA />`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itallolugon)
