@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itallo-arruda-lugon-113766374/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itallolugon)
-[![Localização](https://img.shields.io/badge/Florianópolis,_SC-🌊-1a1a2e?style=for-the-badge)]
 
 </div>
 
